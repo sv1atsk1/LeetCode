@@ -15,3 +15,7 @@ Output: [1,2]
 # Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
+
+# Result:
+![Результат](https://github.com/sv1atsk1/screenshots/blob/main/twoSum.png)
+
