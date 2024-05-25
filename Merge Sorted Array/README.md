@@ -16,3 +16,5 @@ Output: [1]
 # Example 3:
 Input: nums1 = [0], m = 0, nums2 = [1], n = 1
 Output: [1]
+
+![Результат](https://github.com/sv1atsk1/screenshots/blob/main/mergeSortedArray.png)
